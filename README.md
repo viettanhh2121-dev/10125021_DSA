@@ -1,4 +1,4 @@
-```markdown
+
 # Bài tập CTDL&GT – 211131
 - Họ tên: Vũ Việt Anh
 - MSV: 10125021
@@ -13,4 +13,4 @@
 | 05 | Sắp xếp | Buoi05_SapXep | Chưa nộp |
 | 06 | Tìm kiếm | Buoi06_TimKiem | Chưa nộp |
 | BTL | Bài tập lớn | BaiTapLon | Chưa nộp |
-```
+
