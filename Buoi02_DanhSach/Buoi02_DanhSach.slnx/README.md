@@ -1,4 +1,4 @@
-# Buổi 01 – Đệ quy
+# Buổi 02 – Danh Sách
 
 Họ tên: Vũ Việt Anh · MSV: 10125021
 
