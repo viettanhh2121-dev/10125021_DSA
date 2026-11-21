@@ -1,3 +1,18 @@
+# Buổi 01 – Đệ quy
+
+Họ tên: Vũ Việt Anh · MSV: 10125021
+
+## Bài đã làm
+Chương 1: Bài 1, 2, 3, 4, 5
+Chương 2: Bài 1, 2, 3, 4, 5, 6
+Chương 3: Bài 1, 2, 3, 4, 5, 6, 7, 8
+
+## Cách chạy
+```
+bash
+dotnet run --project Buoi02_DanhSach/<Ten_Chuong>/<Ten_Bai>
+```
+## Ket Qua Chay
 ~~~
 >>> PHẦN 4: CHƯƠNG 4 - MẢNG VÀ DANH SÁCH LIÊN KẾT
 ------------------------------------------------------------
